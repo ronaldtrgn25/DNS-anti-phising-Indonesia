@@ -82,4 +82,4 @@
 ||ugradelayanantarif781702582.wordpress.com^$important
 ||www.bri-ibank.rf.gd/tarif-bri-co.id^$important
 ||my.forms.app/registrasibank/layanan-registrasi-brimo^$important
-||wilfley.in/wp-content/mzhtrfibri.com^$important
+||wilfley.in/wp-content/*^$important
